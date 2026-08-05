@@ -12,6 +12,7 @@ and fails elsewhere, which is
 |---|---|
 | version | `1.17.0` |
 | upstream | https://xorg.freedesktop.org/archive/individual/lib/libxcb-1.17.0.tar.xz |
+| licence | MIT |
 | sha256 | `561b2f8f6d1452f211cdb9023efc3ecde8c365f1eba181bd2d183357b85f484a` |
 | recipe | [`xim-pkgindex/pkgs/l/libxcb.lua`](https://github.com/openxlings/xim-pkgindex/blob/main/pkgs/l/libxcb.lua) |
 
